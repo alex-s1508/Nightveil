@@ -11,7 +11,7 @@
 * **Native Localization:** Includes automatic translations for all official WoW game languages.
 * **Performance Focused:** It’s very lightweight. It won’t tank your FPS or stutter your game, even on older PCs.
 
-<img src=".resources/images/screenshots/stealthedHighlight.png" width="1920" alt="Screenshot">
+<img src=".resources/images/screenshots/stealthedHighlight.png" width="1920" alt="StealthScreenshot">
 
 ***
 
@@ -19,12 +19,14 @@
   <img src="https://wow.zamimg.com/images/wow/icons/large/ability_rogue_shroudofconcealment.jpg" width="29" style="vertical-align: middle;"> Shroud of Concealment System
 </h2>
 
-VeilState features a dedicated messaging system for **Shroud of Concealment** to help coordinate skips with your group.
+VeilState features a dedicated messaging system for **Shroud of Concealment** to help coordinate with your group.
 
-* **Custom Alerts:** By default, chat messages are disabled (only the countdown is shown), but you can enable custom text for when the Shroud starts and ends.
+* **Custom Alerts:** You can enable chat messages for when the Shroud starts and ends.
 * **Dynamic Countdown:** You can fully customize the countdown chat message. Use the **`%t`** variable in your text to represent the actual remaining time.
 
-> **Example:** If you set the text to: `Shroud: %t remaining!` The addon will automatically post: _Shroud: 3 remaining!_ _Shroud: 2 remaining!_ _Shroud: 1 remaining!_
+> **Example:** If you set the text to: `Shroud: %t remaining!` The addon will automatically post: 
+
+<img src=".resources/images/screenshots/shroudCountdown.gif" width="1920" alt="ShroudScreenshot">
 
 ***
 
