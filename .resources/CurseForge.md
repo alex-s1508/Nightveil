@@ -1,4 +1,4 @@
-<img src=".resources/images/banners/banner3.png" width="1920" alt="VeilState Header"> 
+<img src="https://raw.githubusercontent.com/alex-s1508/VeilState/refs/heads/main/.resources/images/banners/banner3.png" width="1920" alt="VeilState Header"> 
 
 
 **VeilState** is a simple addon to track your Stealth. I call it simple, but I’ve put a lot of work into making sure it’s fully customizable to fit your UI perfectly.
@@ -11,7 +11,7 @@
 * **Native Localization:** Includes automatic translations for all official WoW game languages.
 * **Performance Focused:** It’s very lightweight. It won’t tank your FPS or stutter your game, even on older PCs.
 
-<img src=".resources/images/screenshots/stealthedHighlight.png" width="1920" alt="Screenshot">
+<img src="https://raw.githubusercontent.com/alex-s1508/VeilState/refs/heads/main/.resources/images/screenshots/stealthedHighlight.png" width="1920" alt="Screenshot">
 
 ***
 

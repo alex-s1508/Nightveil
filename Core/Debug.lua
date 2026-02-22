@@ -1,10 +1,6 @@
 local addonName, ns = ...
 
-SLASH_VEILSTATE1 = "/veil"
-SLASH_VEILSTATE2 = "/vs"
+ns = ns or {}
+ns.Debug = ns.Debug or {}
 
-SlashCmdList["VEILSTATE"] = function()
-    if ns.MainCategory then
-        Settings.OpenToCategory(ns.MainCategory:GetID())
-    end
-end
+-- Debug utilities container (slash commands moved to Core/Commands.lua)

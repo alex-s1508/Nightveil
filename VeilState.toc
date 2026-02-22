@@ -1,12 +1,22 @@
 ## Interface: 120001
 ## Title: |cff9d4dffVeil|rState
-## Version: 1.0.0b
+## Version: 1.0.0d
 ## Author: iLoviP4g
 ## X-Website: https://www.curseforge.com/wow/addons/veilstate
-## X-Category: Combat, Rogue
+## X-Category: Combat, Rogue, HUDs
 ## X-Localizations: enUS, ptBR, esES, frFR, deDE, itIT, koKR, ruRU, zhCN
 ## Notes: A simple Stealth indicator.
 ## Category: Combat
+## Category-deDE: Kampf
+## Category-esES: Combate
+## Category-esMX: Combate
+## Category-frFR: Combat
+## Category-itIT: Combattimento
+## Category-koKR: 전투
+## Category-ptBR: Combate
+## Category-ruRU: Бой
+## Category-zhCN: 战斗
+## Category-zhTW: 戰鬥
 ## SavedVariables: VeilStateDB
 ## SavedVariablesPerCharacter: VeilStateSavedState
 ## IconTexture: Interface\AddOns\VeilState\Images\Icon.png
@@ -24,6 +34,7 @@ Locales\zhCN.lua
 Core\Constants.lua
 Core\Changelog.lua
 Core\Debug.lua
+Core\Commands.lua
 
 UI\Frames.lua
 
